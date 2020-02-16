@@ -1,0 +1,3 @@
+# Project Name: Clean-Code-Task-Epam
+This project is based on calculation of Simple and Compound Interest, 
+also calculation of Home cost depending upon the material/home type...
